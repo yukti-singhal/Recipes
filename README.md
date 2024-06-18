@@ -1,1 +1,1 @@
-A practice recipes page to view different types of recipes made using DummyJSON in Next.js.
+A recipes page to view different types of recipes made using DummyJSON and Next.js.
