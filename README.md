@@ -1,4 +1,4 @@
-This is a Next.js recipes' page which shows different types of recipes and is made using DummyJSON.
+This is a Next.js recipes' page which shows different types of recipes using DummyJSON.
 
 ## Getting Started
 
